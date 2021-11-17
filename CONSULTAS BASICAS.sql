@@ -8,10 +8,9 @@ group by NOMBRESC,APELLIDOSC,TIPOTRAMITE,FECHAT,HORAT,CANTIDADT,VALORT;
 
 --Histórico de pago 
 
-select  CANTIDADP,FECHAP,HORAP from PAGO
-Group by CANTIDADP,FECHAP,HORAP
+select  TIPOTRAMITE,CANTIDADP,FECHAP,HORAP from PAGO,TRAMITE
+Group by CANTIDADP,FECHAP,HORAP,TIPOTRAMITE
 order by CANTIDADP;
-
 
 --La cantidad de tipo de estructura que tiene el cementerio 
 
