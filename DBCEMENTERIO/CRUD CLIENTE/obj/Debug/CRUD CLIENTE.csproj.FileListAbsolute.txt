@@ -1,0 +1,9 @@
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\bin\Debug\CRUD CLIENTE.exe.config
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\bin\Debug\CRUD CLIENTE.exe
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\bin\Debug\CRUD CLIENTE.pdb
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\obj\Debug\CRUD CLIENTE.csproj.AssemblyReference.cache
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\obj\Debug\CRUD_CLIENTE.Properties.Resources.resources
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\obj\Debug\CRUD CLIENTE.csproj.GenerateResource.cache
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\obj\Debug\CRUD CLIENTE.csproj.CoreCompileInputs.cache
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\obj\Debug\CRUD CLIENTE.exe
+D:\visual studio comunity\DBCEMENTERIO\CRUD CLIENTE\obj\Debug\CRUD CLIENTE.pdb

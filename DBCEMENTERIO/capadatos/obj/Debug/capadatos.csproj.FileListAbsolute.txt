@@ -1,0 +1,12 @@
+D:\visual studio comunity\DBCEMENTERIO\capadatos\bin\Debug\capadatos.dll
+D:\visual studio comunity\DBCEMENTERIO\capadatos\bin\Debug\capadatos.pdb
+D:\visual studio comunity\DBCEMENTERIO\capadatos\obj\Debug\capadatos.csproj.AssemblyReference.cache
+D:\visual studio comunity\DBCEMENTERIO\capadatos\obj\Debug\capadatos.csproj.CoreCompileInputs.cache
+D:\visual studio comunity\DBCEMENTERIO\capadatos\obj\Debug\capadatos.dll
+D:\visual studio comunity\DBCEMENTERIO\capadatos\obj\Debug\capadatos.pdb
+C:\Users\jonat\OneDrive - ULEAM\Escritorio\DBCEMENTERIO\DBCEMENTERIO\capadatos\bin\Debug\capadatos.dll
+C:\Users\jonat\OneDrive - ULEAM\Escritorio\DBCEMENTERIO\DBCEMENTERIO\capadatos\bin\Debug\capadatos.pdb
+C:\Users\jonat\OneDrive - ULEAM\Escritorio\DBCEMENTERIO\DBCEMENTERIO\capadatos\obj\Debug\capadatos.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive - ULEAM\Escritorio\DBCEMENTERIO\DBCEMENTERIO\capadatos\obj\Debug\capadatos.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - ULEAM\Escritorio\DBCEMENTERIO\DBCEMENTERIO\capadatos\obj\Debug\capadatos.dll
+C:\Users\jonat\OneDrive - ULEAM\Escritorio\DBCEMENTERIO\DBCEMENTERIO\capadatos\obj\Debug\capadatos.pdb
